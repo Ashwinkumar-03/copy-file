@@ -18,7 +18,7 @@ Again using the with keyword to open the empty file.
 The empty file is open by using 'W' which is used to write only.
 
 ## Step 5:
-The for function is used to take each line from the main file.
+ for is used to take each line from the main file.
 
 ## step 6:
 Print the output.
